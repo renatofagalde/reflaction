@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reflaction-api/reflaction-api.iml" filepath="$PROJECT_DIR$/reflaction-api/reflaction-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflaction-handler/reflaction-handler.iml" filepath="$PROJECT_DIR$/reflaction-handler/reflaction-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflaction-playground/reflaction-playground.iml" filepath="$PROJECT_DIR$/reflaction-playground/reflaction-playground.iml" />
+    </modules>
+  </component>
+</project>
